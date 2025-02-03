@@ -1,4 +1,4 @@
-# Data-Dreamers
+![image](https://github.com/user-attachments/assets/b314781e-24c5-4bc8-80a3-217012658ebc)![image](https://github.com/user-attachments/assets/36272e37-ad45-49c8-bfc6-0bc16e669dcd)# Data-Dreamers
 This  repository is for our group project  GPT2 Text Generation with KerasNLP
 
 
@@ -9,6 +9,10 @@ What you did was to use the properties of big language models in keras-nlp packa
 B. Key Components
 
 Dataset:
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/887b59bd-81cf-4338-ace3-30191999f67d)
+
+![image](https://github.com/user-attachments/assets/f5614aa4-d224-421f-9abd-e6c5b73d0d2d)
+
 
 You used a dataset for training and testing your model. For instance, you might have employed IMDb movie reviews dataset for sentiment analysis.
 
