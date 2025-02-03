@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b314781e-24c5-4bc8-80a3-217012658ebc)![image](https://github.com/user-attachments/assets/36272e37-ad45-49c8-bfc6-0bc16e669dcd)# Data-Dreamers
+# Data-Dreamers
 This  repository is for our group project  GPT2 Text Generation with KerasNLP
 
 
@@ -9,9 +9,12 @@ What you did was to use the properties of big language models in keras-nlp packa
 B. Key Components
 
 Dataset:
-![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/887b59bd-81cf-4338-ace3-30191999f67d)
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/e0acbc58-d7c9-4969-a44d-1f78d33b146d)
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/d0ced0a2-8311-490b-a27e-4a1cb6243d0f)
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/7eac7bfa-e83b-4ca1-a64f-44a27a69a398)
 
-![image](https://github.com/user-attachments/assets/f5614aa4-d224-421f-9abd-e6c5b73d0d2d)
+
+
 
 
 You used a dataset for training and testing your model. For instance, you might have employed IMDb movie reviews dataset for sentiment analysis.
@@ -31,6 +34,7 @@ Tokenization of text data took place as conversion from text to numbers suitable
 Different preprocessing approaches like removing stopwords, stemming or lemmatization could be implemented in order to clean-up and normalize the data.
 
 Training:
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/5352840f-59c9-47cb-b23e-783fb9d23439)
 
 This supervised learning methodology was used for training the model on the training dataset.
 
@@ -41,6 +45,9 @@ Evaluation:
 The model's performance was evaluated on the test dataset.
 Metrics such as accuracy, precision, recall, F1-score, or others relevant to your specific task were used to assess the model's effectiveness.
 Deployment:
+![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/96bd622a-dcf3-410c-847c-aea6c24e72bd)
+
+![Screenshot 2025-02-03 191001](https://github.com/user-attachments/assets/d30ad945-00c6-40e1-bf5f-03c8b9c2ce10)
 
 The trained model was likely deployed in a production environment where it could be used to process new text data.
 This involved setting up an API or integrating the model into an existing application.
