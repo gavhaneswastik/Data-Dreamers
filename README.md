@@ -28,6 +28,7 @@ Most likely, you adopted a pre-trained language model such as BERT, GPT or other
 The model architecture was fine-tuned using keras-nlp library to meet specific requirements of your problem.
 
 Data Preprocessing:
+![image](https://github.com/user-attachments/assets/4aa1ee73-84c8-43a5-9915-9059f4f4663b)
 
 Tokenization of text data took place as conversion from text to numbers suitable for the model was done.
 
