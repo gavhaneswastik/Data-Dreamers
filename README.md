@@ -34,7 +34,8 @@ Tokenization of text data took place as conversion from text to numbers suitable
 Different preprocessing approaches like removing stopwords, stemming or lemmatization could be implemented in order to clean-up and normalize the data.
 
 Training:
-![Screenshot 2025-02-03 190951](https://github.com/user-attachments/assets/5352840f-59c9-47cb-b23e-783fb9d23439)
+
+![Screenshot 2025-02-03 190938](https://github.com/user-attachments/assets/b315bc7d-fa40-402e-88a9-4e0f03aa7eaa)
 
 This supervised learning methodology was used for training the model on the training dataset.
 
